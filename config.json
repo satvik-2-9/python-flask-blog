@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/flask_tut",
+    "prod_uri": "mysql://root:@localhost/flask_tut",
+    "fb_url": "https://facebook.com/flask_tut",
+    "tw_url": "https://twitter.com/flask_tut",
+    "git_url": "https://github.com/flask_tut",
+    "blog_name": "Flask Tutorial",
+    "tag_line": "A Tutorial Theme by Programmers",
+    "gmail-user": "satvikbatra@gmail.com",
+    "gmail-password": "hbhudreobzsooquj",
+    "about-info": "Hey, this is Satvik Batra & I am just learning Flask cause MAYBE it will be beneficial",
+    "no_of_posts": 2,
+    "login_img_url": "meme.jpg",
+    "admin_user": "satvik",
+    "admin_password": "batra",
+    "upload_location": "C:\\Users\\batra\\PycharmProjects\\flask_tut\\static"
+  }
+}
